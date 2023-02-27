@@ -1,5 +1,6 @@
 package kodlama.io.rentACar;
 
+import kodlama.io.rentACar.entities.concretes.Model;
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

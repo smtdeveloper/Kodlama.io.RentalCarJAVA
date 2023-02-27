@@ -16,3 +16,4 @@ public interface BrandService {
 	void delete(int id);
 	
 }
+
